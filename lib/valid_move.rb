@@ -7,6 +7,7 @@ def valid_move?(board, index)
       return true
     else
       return true
+    end
   else
     return false
   end
